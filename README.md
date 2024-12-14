@@ -8,4 +8,4 @@ To find specific titles, click the search icon in the top right corner of the ap
 #####View Movie Details: 
  Tap on any movie poster to access more detailed information, including the movie’s summary, genres, ratings and premiere date.
 
-![Uploading moviesspot (1).jpg…]()
+![moviesspot (1)](https://github.com/user-attachments/assets/6711e310-13a7-455b-a9c9-9d46449003a8)
